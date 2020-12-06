@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name NFC_adapter-rescue)(type Legacy)(uri ${KIPRJMOD}/NFC_adapter-rescue.lib)(options "")(descr ""))
+)
